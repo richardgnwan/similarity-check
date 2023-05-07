@@ -1,3 +1,5 @@
+![Home Page](docs/homepage.png)
+
 Similarity Check
 ================
 
